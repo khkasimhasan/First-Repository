@@ -1,6 +1,6 @@
 # First-Repository
 Learning
 
-[Google] (http://google.com)
+[Google](http://google.com)
 
-[Kasim Hasan] (https://www.linkedin.com/in/kasim-hasan/0
+[Kasim Hasan](https://www.linkedin.com/in/kasim-hasan/)
